@@ -1,6 +1,6 @@
 # RC Filter Signal Processing
 
-A MATLAB project exploring **RC circuit modeling, frequency response, and signal filtering** using differential equations and transfer functions. The project applies these concepts to both circuit analysis and audio noise reduction.
+A team-based MATLAB project exploring **RC circuit modeling, frequency response, and signal filtering** using differential equations and transfer functions. We applied these concepts to circuit analysis, filter design, and audio noise reduction.
 
 ## Project Overview
 
@@ -21,4 +21,4 @@ The designed low-pass filter preserved approximately **95.4% of the 50 Hz signal
 
 ## What I Learned
 
-This project strengthened my understanding of how differential equations and frequency-domain analysis can be used to model physical systems. I also gained experience translating circuit theory into MATLAB simulations and applying filter design to a real signal-processing problem.
+This project strengthened my understanding of how differential equations and frequency-domain analysis can be used to model physical systems. I gained experience using MATLAB for circuit simulation, analyzing frequency responses, designing filters, and applying signal-processing concepts to real audio data.
